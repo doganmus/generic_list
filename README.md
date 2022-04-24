@@ -1,1 +1,1 @@
-"# generic_list" 
+" https://www.patika.dev/tr" 
